@@ -1,3 +1,5 @@
-python-cufflinks
+cufflinks
 chart-studio
 ipyleaflet
+pandas
+plotly
