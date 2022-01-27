@@ -3,3 +3,4 @@ chart-studio
 ipyleaflet
 pandas
 plotly
+matplotlib
